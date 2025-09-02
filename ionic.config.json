@@ -1,0 +1,7 @@
+{
+  "name": "identidade",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
